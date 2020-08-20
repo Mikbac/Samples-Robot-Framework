@@ -1,29 +1,29 @@
 # Robot Framework
 
 ## Install
-1.
+#### Step 1
 ```
 pip3 install robotframework
 pip3 install --upgrade robotframework
 ```
 
-2. 
+#### Step 2
 ```
 pip3 install robotframework-seleniumlibrary
 pip3 install robotframework-selenium2library 
 ```
 
-3. Download geckodriver (for firefox)
+#### Step 3 - Download geckodriver (for firefox)
 ```
 https://firefox-source-docs.mozilla.org/testing/geckodriver/Support.html
 ```
 
-4. Download chromedriver (for firefox)
+#### Step 4 - Download chromedriver (for firefox)
 ```
 https://sites.google.com/a/chromium.org/chromedriver/
 ```
 
-5. Update the Path system variable 
+#### Step 5 - Update the Path system variable 
 
 Linux:
 ```
@@ -34,7 +34,7 @@ or
 export PATH=$PATH:/path/to/the/chromedriver/catalog
 ```
 
-6. Run
+#### Step 6 - Run
 ```
 robot -d results robot_tests/03_tests/*
 ```
