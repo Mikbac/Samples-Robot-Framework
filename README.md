@@ -17,6 +17,9 @@ pip3 install robotframework-selenium2library
 ```
 https://firefox-source-docs.mozilla.org/testing/geckodriver/Support.html
 ```
+```
+https://github.com/mozilla/geckodriver/releases
+```
 
 #### Step 4 - Download chromedriver (for firefox)
 ```
