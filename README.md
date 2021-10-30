@@ -21,7 +21,7 @@ https://firefox-source-docs.mozilla.org/testing/geckodriver/Support.html
 https://github.com/mozilla/geckodriver/releases
 ```
 
-#### Step 4 - Download chromedriver (for firefox)
+#### Step 4 - Download chromedriver (for chrome)
 ```
 https://sites.google.com/a/chromium.org/chromedriver/
 ```
